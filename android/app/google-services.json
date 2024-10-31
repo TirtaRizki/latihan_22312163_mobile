@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "368406071771",
+    "project_id": "latihan-22312163",
+    "storage_bucket": "latihan-22312163.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368406071771:android:c76639503dbdec4205bffe",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjJHXkJp--POWo-i14uoKS8stF0_G6xs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368406071771:android:43b38d639ae5a90d05bffe",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjJHXkJp--POWo-i14uoKS8stF0_G6xs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368406071771:android:0619d5427289844605bffe",
+        "android_client_info": {
+          "package_name": "com.tirta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjJHXkJp--POWo-i14uoKS8stF0_G6xs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
